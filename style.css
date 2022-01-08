@@ -14,5 +14,9 @@ h1{
     padding-left: 2%;
 }
 .half-width image{
-    width: 100%;
+    width: 100%
+}
+.bg-image{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
 }
